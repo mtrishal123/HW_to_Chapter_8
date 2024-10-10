@@ -25,6 +25,9 @@ Clone the repository (if applicable) or download the project files.
 
 Generate Random Images: In the project directory, ensure you have a script named dataset.py. This script will generate random images and store them in the specified directory (random_images by default).
 
+The output will look like output.png
+
+
 Directory Structure: After generating random images, ensure your directory structure looks like this:
 
 
